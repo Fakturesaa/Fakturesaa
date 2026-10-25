@@ -83,7 +83,7 @@ Saya tidak harus mengetahui semuanya hari ini. Yang terpenting adalah terus bela
 Saya terbuka untuk belajar bersama, bertukar ide, berkolaborasi, dan terhubung dengan orang-orang yang memiliki minat di bidang teknologi dan pengembangan perangkat lunak.
 
 - **GitHub:** [@fakturesa-spec](https://github.com/fakturesa-spec)
-- **Portofolio:** Segera hadir
+- **Portofolio:** (https://fakturesaa-portofolio.vercel.app/)
 - **LinkedIn:** -
 - **Email:** fakturesaa@gmail.com
 
