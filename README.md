@@ -16,7 +16,6 @@ Bagi saya, menjadi seorang developer bukan hanya tentang menulis kode, tetapi ju
 - 💻 Berfokus pada pengembangan web dan pembuatan aplikasi.
 - 🌱 Sedang mendalami Laravel, PHP, React, JavaScript, dan Tailwind CSS.
 - 🗄️ Mempelajari perancangan basis data, MySQL, dan pengembangan backend.
-- 🎮 Tertarik mengembangkan game interaktif dan edukatif menggunakan Construct 3.
 - 🛠️ Senang mengembangkan proyek untuk menerapkan ilmu yang telah dipelajari.
 - 📈 Terus meningkatkan kemampuan pemrograman, pemecahan masalah, dan pengelolaan proyek.
 
