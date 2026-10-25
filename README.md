@@ -1,6 +1,6 @@
 # Halo, saya Anif Fakturesa Ravael 👋
 
-### Calon Developer | Web Development | Game Development
+### Calon Developer | Web Development
 
 Saya adalah seorang pengembang yang terus belajar dan berkembang di bidang teknologi, khususnya pengembangan web dan aplikasi interaktif. Saya senang mengubah ide menjadi produk digital yang fungsional, bermanfaat, dan memiliki desain yang baik.
 
